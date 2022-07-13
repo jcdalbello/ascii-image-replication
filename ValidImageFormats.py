@@ -1,0 +1,20 @@
+valid_formats = (
+    ".dds",
+    ".bmp",
+    ".exif",
+    ".gif",
+    ".jpg",
+    ".jpeg",
+    ".jp2",
+    ".jpx",
+    ".pcx",
+    ".png",
+    ".png",
+    ".pnm",
+    ".ras",
+    ".tga",
+    ".tif",
+    ".tiff",
+    ".xbm",
+    ".xpm"
+)
