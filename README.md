@@ -8,4 +8,4 @@
  Resolution to resize the image if it is too big.
 
 ### WARNING
- Bigger image resolutions could appear cropped on the console. To solve this resize the image to a smaller resolution.
+ Bigger image resolutions could appear cropped on the console. To solve this, resize the image to a smaller resolution.
